@@ -205,6 +205,7 @@ article>div>p>button{
     text-align: center;
     box-shadow: 0 0 2em 0 rgba(0,0,0,.5);
 }
+
    
    .footerbox {    
        border-right-style: groove;
@@ -312,6 +313,8 @@ body,html{
 .titulo{
     margin-top:90px;
     margin-bottom:15px;
+
+    
 }
 @media screen and (min-width: 480px) and (max-width: 1024px){
 	.team-member{
