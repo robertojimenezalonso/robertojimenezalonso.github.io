@@ -3,52 +3,41 @@
   "Actividades": [
        {
       "Titulo": "Glosario",
-      "Fecha de realización": "30/Octubre/2016",
+      "Fecha": "30/Octubre/2016",
       "Descripcion": "Top 8 empresas tecnológicas",
       "Link": "GlosarioRoberto/index.html",
-      "Miembros grupo": "Roberto Jimenez",
-      "Asignaturas relacionadas": "Lenguaje de marcas",
+      "Miembros": "Roberto Jimenez",
+      "Asignaturas": "Lenguaje de marcas",
       "Disponible": "si",
       "Destacado": true,
       "Responsive": "no",
-      "Visualizacion recomendada": "1920x1200",
+      "Visualizacion": "1920x1200",
       "Foto": "IMG/Glosario.jpg"
     },
        {
       "Titulo": "Proyecto",
-      "Fecha de realización": "14/Noviembre/2016",
+      "Fecha": "14/Noviembre/2016",
       "Descripcion": "Trabajo sobre una Web de viajes",
       "Link": "Web/index.html",
-      "Miembros grupo": [
-        {
-          "Nombre": "Carlos Rodriguez",
-          "URL": "https://github.com/CarlosRodriguezGonzalez/"
-        },
-          {
-          "Nombre": "Roberto Jiménez",
-          "URL": "https://github.com/robertojimenezalonso"
-        }
-
-
-      ],
-      "Asignaturas relacionadas": "Lenguaje de marcas",
+      "Miembros":"Carlos Rodriguez, Roberto Jiménez",
+      "Asignaturas": "Lenguaje de marcas",
       "Disponible": "si",
     "Destacado": true,
       "Responsive": "no",
-      "Visualizacion recomendada": "1920x1200",
+      "Visualizacion": "1920x1200",
       "Foto": "IMG/Proyecto.jpg"
     },
     {
       "Titulo": "Curriculum",
-      "Fecha de realización": "20/Noviebre/2016",
+      "Fecha": "20/Noviebre/2016",
       "Descripcion": "Curriculum versión WEB/CSS, ROBERTO",
       "Link": "Curriculum/html.html",
-      "Miembros grupo": "Roberto Jimenez",
-      "Asignaturas relacionadas": "Lenguaje de marcas",
+      "Miembros": "Roberto Jimenez",
+      "Asignaturas": "Lenguaje de marcas",
       "Disponible": "si",
       "Destacado": false,
       "Responsive": "no",
-      "Visualizacion recomendada": "1920x1200",
+      "Visualizacion": "1920x1200",
       "Foto": "IMG/CuVi.jpg"
     }
       
